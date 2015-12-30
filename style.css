@@ -1,12 +1,10 @@
 body {
   background-color: #EBE8E4;
-  border: 1px solid #dedede;
-  border-radius: 4px;
+  border: 10px solid #dedede;
   color: #222;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   font-size: 15px;
-  display: block;
   width: 90%; 
 
 }
